@@ -1,0 +1,7 @@
+PoC for WordPress Username enumeration via the /?author=<number> redirect vulnerability.
+Created by Riyaz Ahemed Walikar
+
+Usage: wp_userenum_requests.py <blog_url> [max_number_users]
+
+Example: wp_userenum_requests.py https://advertising.paypal.com 20
+

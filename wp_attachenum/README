@@ -1,0 +1,1 @@
+PoC for WordPress Attachment enumeration via the /?attachment_id=<number> vulnerability.Created by Riyaz Ahemed WalikarUsage: wp_attachenum.py <blog_url> [max_number_users]Example: wp_attachenum.py https://advertising.paypal.com 20
