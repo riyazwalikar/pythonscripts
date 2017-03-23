@@ -1,5 +1,5 @@
 ## gppdecrypt
-Simple script to decrypt GPP passwords found in groups.xml files in the sysvol folders.
+Simple script to decrypt GPP passwords found in groups.xml files in the sysvol folders. Microsoft publishes the key on MSDN so this becomes straightforward.
 
 Needs pycrypto (pip install pycrypto).
 Windows users [https://twitter.com/riyazwalikar/status/844953786376474626](https://twitter.com/riyazwalikar/status/844953786376474626)
